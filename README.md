@@ -4,9 +4,8 @@
 I enjoy transforming data into meaningful insights that support business understanding and decision-making.
 
 📍 Jakarta, Indonesia  
-📫 Email: ghoziaflah@gmail.com  
-🔗 LinkedIn: linkedin.com/in/aflahghozi  
-💻 GitHub: github.com/ghoziaflah 
+📫 Email: [ghoziaflah@gmail.com](mailto:ghoziaflah@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/aflahghozi](https://www.linkedin.com/in/aflahghozi) 
 
 ---
 
