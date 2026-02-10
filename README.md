@@ -31,13 +31,6 @@ My interests lie at the intersection of **data, customers, and business**, parti
 
 ---
 
-## 🎓 Education
-**Institut Teknologi Sepuluh Nopember (ITS)**  
-Bachelor of Statistics (Final Year)  
-Expected Graduation: December 2026  
-
----
-
 ## 🏆 Achievements & Programs
 - **Distinction Student** – ASAH Bootcamp (Machine Learning Path)  
 - Completed multiple applied analytics and machine learning projects through academic and bootcamp programs  
