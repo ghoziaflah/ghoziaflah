@@ -2,9 +2,7 @@
 
 Data Analytics | Business Intelligence | Business Strategy | Product & Growth
 
-I'm a Statistics graduate from Institut Teknologi Sepuluh Nopember (ITS) with experience in data analytics, business operations, and customer research.
-
-I combine analytical thinking with business understanding to identify performance gaps, uncover growth opportunities, and translate data into actionable insights that support strategic decision-making.
+I'm a Statistics graduate from Institut Teknologi Sepuluh Nopember (ITS) with experience in data analytics, business operations, and customer research. I combine analytical thinking with business understanding to identify performance gaps, uncover growth opportunities, and translate data into actionable insights that support strategic decision-making.
 
 📍 Jakarta, Indonesia  
 📫 Email: [ghoziaflah@gmail.com](mailto:ghoziaflah@gmail.com)  
@@ -22,12 +20,9 @@ I combine analytical thinking with business understanding to identify performanc
 ---
 
 ## 🛠️ Technical Skills
-**Programming**
-- Python, SQL (MySQL)
-**Data Visualization & Business Intelligence**
-- Power BI, Looker Studio, Streamlit
-**Business & Strategy**
-- KPI analysis, competitor benchmarking, operational analysis, structured problem-solving
+- **Programming**: Python, SQL (MySQL)
+- **Data Visualization & Business Intelligence**: Power BI & Data Studio
+- **Business & Strategy**: competitor benchmarking, operational analysis, structured problem-solving
 
 ---
 
